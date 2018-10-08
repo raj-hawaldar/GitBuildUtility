@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitBuildUtility", "GitBuildUtility\GitBuildUtility.csproj", "{3285EB43-1698-4461-A1F2-3B8BB23D52FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3285EB43-1698-4461-A1F2-3B8BB23D52FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3285EB43-1698-4461-A1F2-3B8BB23D52FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3285EB43-1698-4461-A1F2-3B8BB23D52FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3285EB43-1698-4461-A1F2-3B8BB23D52FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

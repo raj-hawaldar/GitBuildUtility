@@ -1,0 +1,8 @@
+E:\GitBuildUtility\GitBuildUtility\bin\Debug\GitBuildUtility.exe
+E:\GitBuildUtility\GitBuildUtility\bin\Debug\GitBuildUtility.pdb
+E:\GitBuildUtility\GitBuildUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\GitBuildUtility\GitBuildUtility\obj\Debug\GitBuildUtility.Form1.resources
+E:\GitBuildUtility\GitBuildUtility\obj\Debug\GitBuildUtility.Properties.Resources.resources
+E:\GitBuildUtility\GitBuildUtility\obj\Debug\GitBuildUtility.csproj.GenerateResource.Cache
+E:\GitBuildUtility\GitBuildUtility\obj\Debug\GitBuildUtility.exe
+E:\GitBuildUtility\GitBuildUtility\obj\Debug\GitBuildUtility.pdb
