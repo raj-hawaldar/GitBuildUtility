@@ -1,0 +1,7 @@
+E:\All about Workterra\GitBuildUtility\GitBuildUtility\bin\Release\GitBuildUtility.exe
+E:\All about Workterra\GitBuildUtility\GitBuildUtility\bin\Release\GitBuildUtility.pdb
+E:\All about Workterra\GitBuildUtility\GitBuildUtility\obj\Release\GitBuildUtility.Form1.resources
+E:\All about Workterra\GitBuildUtility\GitBuildUtility\obj\Release\GitBuildUtility.Properties.Resources.resources
+E:\All about Workterra\GitBuildUtility\GitBuildUtility\obj\Release\GitBuildUtility.csproj.GenerateResource.Cache
+E:\All about Workterra\GitBuildUtility\GitBuildUtility\obj\Release\GitBuildUtility.exe
+E:\All about Workterra\GitBuildUtility\GitBuildUtility\obj\Release\GitBuildUtility.pdb
